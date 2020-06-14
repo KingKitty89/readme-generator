@@ -43,7 +43,7 @@
   * GitHub Profile: https://github.com/KingKitty89
   
   ## Tests
-[![Demo](./readme.gif)
+![Demo](./readme.gif)
  
 [Demo Video](https://drive.google.com/file/d/1ZJDdO8Jrc2izlRC9lhtdgExNtryaHFC6/view)
  
