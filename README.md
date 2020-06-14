@@ -43,7 +43,7 @@
   * GitHub Profile: https://github.com/KingKitty89
   
   ## Tests
-
-  <iframe src="https://drive.google.com/file/d/1SAsImDNTvT7o36Ej54gxbCUcwTTzGIdF/preview" width="640" height="480"></iframe>
-
+[![Demo](./readme.gif)
+ 
+[Demo Video](https://drive.google.com/file/d/1ZJDdO8Jrc2izlRC9lhtdgExNtryaHFC6/view)
  
